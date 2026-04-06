@@ -1,1 +1,10 @@
-<h1>¡Hola! Soy Mila y ya he construido una pagina web</h1>
+<%@ page contentType="text/html; charset=UTF-8" %>
+<html>
+<head>
+    <title>Mi Primera Web - Mila</title>
+</head>
+<body>
+    <h1>¡Hola! Soy Mila y ya he construido mi primera página web.</h1>
+    <p>¡Este es un cambio automático hecho por Jenkins!</p>
+</body>
+</html>
