@@ -5,6 +5,5 @@
 </head>
 <body>
     <h1>¡Hola! Soy Mila y ya he construido mi primera página web.</h1>
-    <p>¡Este es un cambio automático hecho por Jenkins!</p>
 </body>
 </html>
